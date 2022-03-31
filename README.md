@@ -1,2 +1,1 @@
-My first readme
-This is it
+My first readme it
